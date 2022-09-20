@@ -28,6 +28,7 @@ class MnemosyneUser extends User
      */
     public function isAdmin()
     {
+        // This needs to be stored in a configuration or database. 
         $admins = [1];
         return (in_array($this->id, $admins));
     }
