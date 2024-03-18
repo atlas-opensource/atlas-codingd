@@ -1,0 +1,21 @@
+#tweet
+{
+    /* width: 90% !important;
+    height: 90% */
+}
+
+#tweet iframe
+{
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.category-label-container
+{
+    text-align: right;
+}
+
+.button-row
+{
+    margin-bottom: 10px;
+}
