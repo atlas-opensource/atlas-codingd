@@ -1,9 +1,7 @@
 <span>The easiest way to install this project on a server (where it can be accessed from the web) is by: 
     
-    <ol>
-        <li><a href="https://www.yiiframework.com/extension/yiisoft/yii2-app-advanced/doc/guide/2.0/en/start-installation">Installing a clean version of the Yii2 framework.</a></li>
-        <li>
-    </ol>
+    1. <a href="https://www.yiiframework.com/extension/yiisoft/yii2-app-advanced/doc/guide/2.0/en/start-installation">Installing a clean version of the Yii2 framework.</a>
+    
     
 </span>
 
