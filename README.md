@@ -1,12 +1,14 @@
 <span>The easiest way to install this project on a server (where it can be accessed from the web) is by: 
     
-    1. Install composer
+    1. Installing composer.
     2. Installing a clean version of the Yii2 framework.
     3. Download the repository to a different directory.
     4. Copy the view files into the Yii2 installation.
     5. Copy the controller files into the Yii2 installation. 
     6. Edit the configuration files to allow access to the SQL installation.
     7. Run the migrations.
+
+Sorry, I never wrote an installer!
 </span>
 
 <p align="center">
