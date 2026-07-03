@@ -1,3 +1,7 @@
+<span>This version of the project is now deprecated. I have re-written the app in a different repository which I will make public when I can.</span><br/>
+<span>If you are interested in using the new version of the app for one of your analysis projects please let me know.</span><br/>
+<span>You can contact me by cloning the repository, making a branch, updating the CONTRIB-REQ-COMMENT file with your information, and making a pull request.</span><br/>
+
 <span>The easiest way to install this project on a server (where it can be accessed from the web) is by: 
     
     1. Installing composer.
